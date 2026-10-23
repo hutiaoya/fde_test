@@ -1,5 +1,6 @@
 # rag_chat.py
 import os
+import pandas as pd
 from dotenv import load_dotenv
 from langchain_chroma import Chroma
 from langchain_core.prompts import ChatPromptTemplate

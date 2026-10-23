@@ -1,0 +1,26 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 日志
+*.log
+
+# 环境变量密钥
+.env
+.env.local
+
+# 构建产物
+dist/
+build/
+out/
+
+# 依赖
+node_modules/
+__pycache__/
+venv/
